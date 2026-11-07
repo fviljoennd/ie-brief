@@ -1,4 +1,4 @@
-# cara dlí
+# ie brief
 
 Irish commercial-awareness learning website.
 
@@ -11,4 +11,4 @@ Irish commercial-awareness learning website.
 
 ## GitHub upload
 
-Upload the contents of this folder to the root of the `cara-dli` GitHub repository. Do not upload the ZIP file itself.
+Upload the contents of this folder to the root of the `ie-brief` GitHub repository. Do not upload the ZIP file itself.
